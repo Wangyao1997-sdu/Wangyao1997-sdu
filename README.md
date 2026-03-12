@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wangyao1997-sdu
-- 👀 I’m interested in CAD & CG, CV
+- 👀 I’m interested in CAD & Vibe Coding
 - 🌱 I’m currently working in a company, and working on OCCT
 
 <!---
